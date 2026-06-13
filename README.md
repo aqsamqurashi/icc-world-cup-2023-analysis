@@ -33,7 +33,7 @@ The dataset contains 26,000+ deliveries across 48 matches and 10 teams.
 - Jupyter Notebook — analysis and presentation
 
 ## Dashboard
-[View ICC World Cup 2023 Dashboard](./dashboard.pdf)
+[View ICC World Cup 2023 Dashboard](./ICC World Cup 2023 Dashboard.pdf)
 
 ## Data Source
 Kaggle — ICC World Cup 2023 ball-by-ball dataset
